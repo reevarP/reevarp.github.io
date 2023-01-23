@@ -1,0 +1,24 @@
+.container {
+  width: 60%;
+  padding-left: 1.5rem;
+}
+
+.firstLine {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.showName {
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.secondLine {
+  margin-bottom: 2rem;
+}
+.castNames {
+  font-size: 12px;
+  margin-top: 0.25rem;
+  font-weight: 500;
+}

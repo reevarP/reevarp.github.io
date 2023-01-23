@@ -1,0 +1,12 @@
+.infoPageContentContainer {
+  background-color: #171717;
+  height: 90%;
+  color: #ffffff;
+  padding: 2rem 1rem 1rem 1rem;
+  overflow-y: scroll;
+  display: flex;
+  justify-content: space-between;
+}
+.infoPageContentContainer::-webkit-scrollbar {
+  display: none;
+}
